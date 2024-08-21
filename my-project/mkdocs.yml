@@ -1,0 +1,5 @@
+site_name: WhatsGoingOn
+
+nav:
+  - Home: index.md
+  - About: about.md
